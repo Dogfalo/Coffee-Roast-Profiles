@@ -1,0 +1,74 @@
+{
+    "creator": "Alvin Wang",
+    "roastName": "Outside - Light",
+    "steps": [
+        {
+            "fanSpeed": 9,
+            "targetTemp": 225,
+            "sectionTime": 120
+        },
+        {
+            "fanSpeed": 9,
+            "targetTemp": 300,
+            "sectionTime": 60
+        },
+        {
+            "fanSpeed": 9,
+            "targetTemp": 320,
+            "sectionTime": 30
+        },
+        {
+            "fanSpeed": 9,
+            "targetTemp": 340,
+            "sectionTime": 30
+        },
+        {
+            "fanSpeed": 9,
+            "targetTemp": 350,
+            "sectionTime": 60
+        },
+        {
+            "fanSpeed": 9,
+            "targetTemp": 380,
+            "sectionTime": 60
+        },
+        {
+            "fanSpeed": 8,
+            "targetTemp": 400,
+            "sectionTime": 60
+        },
+        {
+            "fanSpeed": 6,
+            "targetTemp": 420,
+            "sectionTime": 60
+        },
+        {
+            "fanSpeed": 5,
+            "targetTemp": 440,
+            "sectionTime": 60
+        },
+        {
+            "fanSpeed": 5,
+            "targetTemp": 455,
+            "sectionTime": 120
+        },
+        {
+            "fanSpeed": 9,
+            "cooling": true,
+            "sectionTime": 180
+        }
+    ],
+    "roastDescription": {
+        "description": "4oz batch size\n\nFirst step is on EMPTY roaster.  This equalizes the temperature to guarantee a consistent start.  Drop beans at 5sec remaining.\n\nBased on Raoish Curves v2.\n\nIf your roaster \"runs cool\" add 20 deg to all the steps.",
+        "roastType": "Medium Light"
+    },
+    "bean": {
+        "source": {
+            "link": "",
+            "reseller": ""
+        },
+        "country": "",
+        "region": ""
+    },
+    "totalTime": 840
+}

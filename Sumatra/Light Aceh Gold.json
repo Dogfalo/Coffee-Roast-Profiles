@@ -1,0 +1,59 @@
+{
+    "totalTime": 615,
+    "steps": [
+        {
+            "sectionTime": 30,
+            "targetTemp": 300,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 45,
+            "targetTemp": 370,
+            "fanSpeed": 5
+        },
+        {
+            "sectionTime": 90,
+            "targetTemp": 420,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 90,
+            "targetTemp": 430,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 48,
+            "targetTemp": 440,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 42,
+            "targetTemp": 450,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 90,
+            "targetTemp": 450,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 180,
+            "cooling": true,
+            "fanSpeed": 9
+        }
+    ],
+    "roastDescription": {
+        "description": "",
+        "roastType": ""
+    },
+    "roastName": "Fast Light V2",
+    "creator": "Alvin",
+    "bean": {
+        "region": "",
+        "source": {
+            "link": "",
+            "reseller": ""
+        },
+        "country": "Sumatra Aceh Gold"
+    }
+}

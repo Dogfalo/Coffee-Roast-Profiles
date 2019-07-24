@@ -1,0 +1,59 @@
+{
+    "creator": "D. Emanuel",
+    "roastDescription": {
+        "roastType": "",
+        "description": ""
+    },
+    "bean": {
+        "region": "",
+        "country": "Alaka Natural",
+        "source": {
+            "link": "",
+            "reseller": ""
+        }
+    },
+    "roastName": "Fast Light V2",
+    "totalTime": 550,
+    "steps": [
+        {
+            "targetTemp": 300,
+            "sectionTime": 30,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 350,
+            "sectionTime": 30,
+            "fanSpeed": 5
+        },
+        {
+            "targetTemp": 420,
+            "sectionTime": 90,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 430,
+            "sectionTime": 90,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 440,
+            "sectionTime": 48,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 450,
+            "sectionTime": 42,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 450,
+            "sectionTime": 40,
+            "fanSpeed": 9
+        },
+        {
+            "cooling": true,
+            "sectionTime": 180,
+            "fanSpeed": 9
+        }
+    ]
+}
