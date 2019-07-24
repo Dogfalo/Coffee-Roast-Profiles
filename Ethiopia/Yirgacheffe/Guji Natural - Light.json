@@ -1,58 +1,58 @@
 {
     "creator": "Alvin",
-    "roastName": "Aceh Gold - Light",
+    "roastName": "Guji Natural - Light",
     "bean": {
-        "region": "",
+        "region": "Guji Natural",
+        "country": "Africa",
         "source": {
             "link": "",
             "reseller": ""
-        },
-        "country": "Sumatra Aceh Gold"
+        }
     },
     "roastDescription": {
         "roastType": "Light",
         "description": ""
     },
-    "totalTime": 615,
+    "totalTime": 565,
     "steps": [
         {
-            "sectionTime": 30,
             "targetTemp": 300,
+            "sectionTime": 30,
             "fanSpeed": 9
         },
         {
-            "sectionTime": 45,
-            "targetTemp": 370,
+            "targetTemp": 350,
+            "sectionTime": 30,
             "fanSpeed": 5
         },
         {
-            "sectionTime": 90,
             "targetTemp": 420,
+            "sectionTime": 90,
             "fanSpeed": 9
         },
         {
-            "sectionTime": 90,
             "targetTemp": 430,
-            "fanSpeed": 9
-        },
-        {
-            "sectionTime": 48,
-            "targetTemp": 440,
-            "fanSpeed": 9
-        },
-        {
-            "sectionTime": 42,
-            "targetTemp": 450,
-            "fanSpeed": 9
-        },
-        {
             "sectionTime": 90,
-            "targetTemp": 450,
             "fanSpeed": 9
         },
         {
-            "sectionTime": 180,
+            "targetTemp": 440,
+            "sectionTime": 48,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 450,
+            "sectionTime": 42,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 460,
+            "sectionTime": 55,
+            "fanSpeed": 9
+        },
+        {
             "cooling": true,
+            "sectionTime": 180,
             "fanSpeed": 9
         }
     ]
