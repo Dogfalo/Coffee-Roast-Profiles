@@ -1,6 +1,6 @@
 {
     "creator": "Alvin",
-    "totalTime": 550,
+    "totalTime": 570,
     "steps": [
         {
             "targetTemp": 300,
@@ -33,8 +33,8 @@
             "fanSpeed": 7
         },
         {
-            "targetTemp": 450,
-            "sectionTime": 40,
+            "targetTemp": 460,
+            "sectionTime": 60,
             "fanSpeed": 7
         },
         {
@@ -47,7 +47,7 @@
     "bean": {
         "country": "Africa",
         "source": {
-            "reseller": "",
+            "reseller": "Teasia",
             "link": ""
         },
         "region": "Yirgacheffe"
