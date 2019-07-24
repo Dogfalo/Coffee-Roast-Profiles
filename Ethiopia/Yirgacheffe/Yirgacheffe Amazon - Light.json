@@ -1,18 +1,5 @@
 {
-    "creator": "D. Emanuel",
-    "roastDescription": {
-        "roastType": "",
-        "description": ""
-    },
-    "bean": {
-        "region": "",
-        "country": "Alaka Natural",
-        "source": {
-            "link": "",
-            "reseller": ""
-        }
-    },
-    "roastName": "Fast Light V2",
+    "creator": "Alvin",
     "totalTime": 550,
     "steps": [
         {
@@ -23,7 +10,7 @@
         {
             "targetTemp": 350,
             "sectionTime": 30,
-            "fanSpeed": 5
+            "fanSpeed": 9
         },
         {
             "targetTemp": 420,
@@ -43,17 +30,30 @@
         {
             "targetTemp": 450,
             "sectionTime": 42,
-            "fanSpeed": 9
+            "fanSpeed": 7
         },
         {
             "targetTemp": 450,
             "sectionTime": 40,
-            "fanSpeed": 9
+            "fanSpeed": 7
         },
         {
             "cooling": true,
             "sectionTime": 180,
             "fanSpeed": 9
         }
-    ]
+    ],
+    "roastName": "Yirgacheffe Amazon - Light",
+    "bean": {
+        "country": "Africa",
+        "source": {
+            "reseller": "",
+            "link": ""
+        },
+        "region": "Yirgacheffe"
+    },
+    "roastDescription": {
+        "roastType": "Light",
+        "description": ""
+    }
 }
