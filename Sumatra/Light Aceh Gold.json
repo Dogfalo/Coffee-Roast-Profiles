@@ -46,8 +46,8 @@
             "fanSpeed": 9
         },
         {
-            "sectionTime": 90,
-            "targetTemp": 450,
+            "sectionTime": 50,
+            "targetTemp": 460,
             "fanSpeed": 9
         },
         {
