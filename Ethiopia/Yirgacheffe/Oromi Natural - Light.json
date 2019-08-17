@@ -23,7 +23,7 @@
         {
             "targetTemp": 350,
             "sectionTime": 30,
-            "fanSpeed": 5
+            "fanSpeed": 9
         },
         {
             "targetTemp": 420,
