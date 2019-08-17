@@ -1,8 +1,8 @@
 {
     "creator": "Alvin",
-    "roastName": "Guji Natural - Light",
+    "roastName": "Oromi Natural - Light",
     "bean": {
-        "region": "Guji Natural",
+        "region": "Oromi Natural",
         "country": "Africa",
         "source": {
             "link": "",
@@ -43,12 +43,12 @@
         {
             "targetTemp": 450,
             "sectionTime": 42,
-            "fanSpeed": 9
+            "fanSpeed": 7
         },
         {
             "targetTemp": 460,
-            "sectionTime": 55,
-            "fanSpeed": 9
+            "sectionTime": 50,
+            "fanSpeed": 7
         },
         {
             "cooling": true,
