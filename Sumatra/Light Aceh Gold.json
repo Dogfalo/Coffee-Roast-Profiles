@@ -1,54 +1,54 @@
 {
-    "creator": "Alvin",
     "roastName": "Aceh Gold - Light",
+    "creator": "Alvin",
     "bean": {
-        "region": "",
         "source": {
             "link": "",
             "reseller": ""
         },
+        "region": "",
         "country": "Sumatra Aceh Gold"
     },
+    "totalTime": 585,
     "roastDescription": {
         "roastType": "Light",
         "description": ""
     },
-    "totalTime": 615,
     "steps": [
         {
             "sectionTime": 30,
-            "targetTemp": 300,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 300
         },
         {
             "sectionTime": 30,
-            "targetTemp": 370,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 370
         },
         {
             "sectionTime": 90,
-            "targetTemp": 420,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 420
         },
         {
             "sectionTime": 90,
-            "targetTemp": 430,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 430
         },
         {
             "sectionTime": 48,
-            "targetTemp": 440,
-            "fanSpeed": 8
+            "fanSpeed": 8,
+            "targetTemp": 440
         },
         {
             "sectionTime": 42,
-            "targetTemp": 450,
-            "fanSpeed": 7
+            "fanSpeed": 7,
+            "targetTemp": 450
         },
         {
-            "sectionTime": 55,
-            "targetTemp": 460,
-            "fanSpeed": 6
+            "sectionTime": 75,
+            "fanSpeed": 6,
+            "targetTemp": 470
         },
         {
             "sectionTime": 180,

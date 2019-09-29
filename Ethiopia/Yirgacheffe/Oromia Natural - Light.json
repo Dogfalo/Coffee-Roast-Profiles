@@ -1,58 +1,58 @@
 {
+    "roastName": "Oromia Natural - Light",
     "creator": "Alvin",
-    "roastName": "Oromi Natural - Light",
     "bean": {
-        "region": "Oromi Natural",
-        "country": "Africa",
         "source": {
             "link": "",
             "reseller": ""
-        }
+        },
+        "region": "Oromia Natural",
+        "country": "Africa"
     },
+    "totalTime": 580,
     "roastDescription": {
         "roastType": "Light",
         "description": ""
     },
-    "totalTime": 565,
     "steps": [
         {
-            "targetTemp": 300,
             "sectionTime": 30,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 300
         },
         {
-            "targetTemp": 350,
             "sectionTime": 30,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 375
         },
         {
-            "targetTemp": 420,
             "sectionTime": 90,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 420
         },
         {
-            "targetTemp": 430,
             "sectionTime": 90,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 430
         },
         {
-            "targetTemp": 440,
             "sectionTime": 48,
-            "fanSpeed": 9
+            "fanSpeed": 9,
+            "targetTemp": 440
         },
         {
-            "targetTemp": 450,
             "sectionTime": 42,
-            "fanSpeed": 7
+            "fanSpeed": 7,
+            "targetTemp": 450
         },
         {
-            "targetTemp": 460,
-            "sectionTime": 50,
-            "fanSpeed": 7
+            "sectionTime": 70,
+            "fanSpeed": 7,
+            "targetTemp": 460
         },
         {
-            "cooling": true,
             "sectionTime": 180,
+            "cooling": true,
             "fanSpeed": 9
         }
     ]

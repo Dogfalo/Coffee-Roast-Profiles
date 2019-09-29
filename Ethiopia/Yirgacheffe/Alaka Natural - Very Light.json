@@ -21,9 +21,9 @@
             "fanSpeed": 9
         },
         {
-            "targetTemp": 350,
+            "targetTemp": 375,
             "sectionTime": 30,
-            "fanSpeed": 5
+            "fanSpeed": 9
         },
         {
             "targetTemp": 420,
@@ -43,12 +43,12 @@
         {
             "targetTemp": 450,
             "sectionTime": 42,
-            "fanSpeed": 9
+            "fanSpeed": 7
         },
         {
-            "targetTemp": 450,
-            "sectionTime": 40,
-            "fanSpeed": 9
+            "targetTemp": 460,
+            "sectionTime": 60,
+            "fanSpeed": 7
         },
         {
             "cooling": true,
