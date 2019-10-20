@@ -16,6 +16,11 @@
     "totalTime": 550,
     "steps": [
         {
+            "sectionTime": 60,
+            "fanSpeed": 9,
+            "targetTemp": 200
+        },
+        {
             "targetTemp": 300,
             "sectionTime": 30,
             "fanSpeed": 9
@@ -47,7 +52,7 @@
         },
         {
             "targetTemp": 460,
-            "sectionTime": 60,
+            "sectionTime": 40,
             "fanSpeed": 7
         },
         {
