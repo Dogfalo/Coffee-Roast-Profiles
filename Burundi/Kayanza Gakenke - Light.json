@@ -1,0 +1,64 @@
+{
+    "roastName": "Kayanza Gakenke - Light",
+    "creator": "Alvin",
+    "bean": {
+        "source": {
+            "link": "",
+            "reseller": ""
+        },
+        "region": "Kayanza Gakenke",
+        "country": "Africa"
+    },
+    "totalTime": 580,
+    "roastDescription": {
+        "roastType": "Light",
+        "description": ""
+    },
+    "steps": [
+        {
+            "sectionTime": 60,
+            "fanSpeed": 9,
+            "targetTemp": 200
+        },
+        {
+            "sectionTime": 30,
+            "fanSpeed": 9,
+            "targetTemp": 300
+        },
+        {
+            "sectionTime": 30,
+            "fanSpeed": 9,
+            "targetTemp": 375
+        },
+        {
+            "sectionTime": 90,
+            "fanSpeed": 9,
+            "targetTemp": 420
+        },
+        {
+            "sectionTime": 90,
+            "fanSpeed": 9,
+            "targetTemp": 430
+        },
+        {
+            "sectionTime": 48,
+            "fanSpeed": 9,
+            "targetTemp": 440
+        },
+        {
+            "sectionTime": 42,
+            "fanSpeed": 7,
+            "targetTemp": 450
+        },
+        {
+            "sectionTime": 40,
+            "fanSpeed": 7,
+            "targetTemp": 460
+        },
+        {
+            "sectionTime": 180,
+            "cooling": true,
+            "fanSpeed": 9
+        }
+    ]
+}
