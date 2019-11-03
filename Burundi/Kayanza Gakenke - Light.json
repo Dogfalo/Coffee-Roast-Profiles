@@ -1,64 +1,64 @@
 {
-    "roastName": "Kayanza Gakenke - Light",
-    "creator": "Alvin",
-    "bean": {
-        "source": {
-            "link": "",
-            "reseller": ""
+    "steps": [
+        {
+            "targetTemp": 200,
+            "sectionTime": 60,
+            "fanSpeed": 9
         },
-        "region": "Kayanza Gakenke",
-        "country": "Africa"
-    },
-    "totalTime": 580,
+        {
+            "targetTemp": 300,
+            "sectionTime": 30,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 375,
+            "sectionTime": 45,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 420,
+            "sectionTime": 90,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 430,
+            "sectionTime": 90,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 440,
+            "sectionTime": 50,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 450,
+            "sectionTime": 50,
+            "fanSpeed": 7
+        },
+        {
+            "targetTemp": 460,
+            "sectionTime": 30,
+            "fanSpeed": 7
+        },
+        {
+            "cooling": true,
+            "sectionTime": 180,
+            "fanSpeed": 9
+        }
+    ],
+    "totalTime": 625,
     "roastDescription": {
         "roastType": "Light",
         "description": ""
     },
-    "steps": [
-        {
-            "sectionTime": 60,
-            "fanSpeed": 9,
-            "targetTemp": 200
+    "roastName": "Kayanza Gakenke - Light",
+    "bean": {
+        "source": {
+            "reseller": "",
+            "link": ""
         },
-        {
-            "sectionTime": 30,
-            "fanSpeed": 9,
-            "targetTemp": 300
-        },
-        {
-            "sectionTime": 30,
-            "fanSpeed": 9,
-            "targetTemp": 375
-        },
-        {
-            "sectionTime": 90,
-            "fanSpeed": 9,
-            "targetTemp": 420
-        },
-        {
-            "sectionTime": 90,
-            "fanSpeed": 9,
-            "targetTemp": 430
-        },
-        {
-            "sectionTime": 48,
-            "fanSpeed": 9,
-            "targetTemp": 440
-        },
-        {
-            "sectionTime": 42,
-            "fanSpeed": 7,
-            "targetTemp": 450
-        },
-        {
-            "sectionTime": 40,
-            "fanSpeed": 7,
-            "targetTemp": 460
-        },
-        {
-            "sectionTime": 180,
-            "cooling": true,
-            "fanSpeed": 9
-        }
-    ]
+        "region": "Kayanza Gakenke",
+        "country": "Africa"
+    },
+    "creator": "Alvin"
 }
