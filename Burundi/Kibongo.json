@@ -1,0 +1,64 @@
+{
+    "bean": {
+        "source": {
+            "reseller": "",
+            "link": ""
+        },
+        "region": "Kibongo",
+        "country": "Africa"
+    },
+    "creator": "Alvin",
+    "totalTime": 640,
+    "steps": [
+        {
+            "targetTemp": 200,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 300,
+            "sectionTime": 30,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 375,
+            "sectionTime": 45,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 420,
+            "sectionTime": 90,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 430,
+            "sectionTime": 90,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 440,
+            "sectionTime": 50,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 450,
+            "sectionTime": 50,
+            "fanSpeed": 7
+        },
+        {
+            "targetTemp": 460,
+            "sectionTime": 45,
+            "fanSpeed": 7
+        },
+        {
+            "cooling": true,
+            "sectionTime": 180,
+            "fanSpeed": 9
+        }
+    ],
+    "roastName": "Kibongo- Light",
+    "roastDescription": {
+        "description": "",
+        "roastType": "Light"
+    }
+}
