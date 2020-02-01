@@ -1,0 +1,69 @@
+{
+    "totalTime": 795,
+    "creator": "Alvin",
+    "roastName": "Kibumbu Kayokwe - Med",
+    "bean": {
+        "country": "Africa",
+        "source": {
+            "reseller": "",
+            "link": ""
+        },
+        "region": "Burundi"
+    },
+    "roastDescription": {
+        "roastType": "Medium",
+        "description": ""
+    },
+    "steps": [
+        {
+            "targetTemp": 250,
+            "fanSpeed": 9,
+            "sectionTime": 90
+        },
+        {
+            "targetTemp": 325,
+            "fanSpeed": 9,
+            "sectionTime": 75
+        },
+        {
+            "targetTemp": 375,
+            "fanSpeed": 9,
+            "sectionTime": 60
+        },
+        {
+            "targetTemp": 400,
+            "fanSpeed": 9,
+            "sectionTime": 30
+        },
+        {
+            "targetTemp": 420,
+            "fanSpeed": 9,
+            "sectionTime": 90
+        },
+        {
+            "targetTemp": 440,
+            "fanSpeed": 9,
+            "sectionTime": 90
+        },
+        {
+            "targetTemp": 450,
+            "fanSpeed": 8,
+            "sectionTime": 60
+        },
+        {
+            "targetTemp": 470,
+            "fanSpeed": 7,
+            "sectionTime": 60
+        },
+        {
+            "targetTemp": 480,
+            "fanSpeed": 7,
+            "sectionTime": 60
+        },
+        {
+            "cooling": true,
+            "fanSpeed": 9,
+            "sectionTime": 180
+        }
+    ]
+}
