@@ -1,0 +1,54 @@
+{
+    "bean": {
+        "region": "Rukira AB",
+        "country": "Africa",
+        "source": {
+            "link": "",
+            "reseller": ""
+        }
+    },
+    "creator": "Alvin",
+    "steps": [
+        {
+            "targetTemp": 300,
+            "sectionTime": 30,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 440,
+            "sectionTime": 30,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 550,
+            "sectionTime": 60,
+            "fanSpeed": 9
+        },
+        {
+            "targetTemp": 530,
+            "sectionTime": 60,
+            "fanSpeed": 7
+        },
+        {
+            "targetTemp": 510,
+            "sectionTime": 60,
+            "fanSpeed": 7
+        },
+        {
+            "targetTemp": 490,
+            "sectionTime": 180,
+            "fanSpeed": 6
+        },
+        {
+            "cooling": true,
+            "sectionTime": 300,
+            "fanSpeed": 9
+        }
+    ],
+    "totalTime": 720,
+    "roastDescription": {
+        "roastType": "Light",
+        "description": ""
+    },
+    "roastName": "Rukira AB - Light"
+}

@@ -1,15 +1,28 @@
 {
-    "totalTime": 750,
+    "roastDescription": {
+        "roastType": "Medium",
+        "description": ""
+    },
+    "roastName": "Kibumbu Kayokwe - Med",
+    "bean": {
+        "region": "Burundi",
+        "source": {
+            "reseller": "",
+            "link": ""
+        },
+        "country": "Africa"
+    },
+    "creator": "Alvin",
     "steps": [
         {
-            "sectionTime": 90,
+            "sectionTime": 110,
             "fanSpeed": 9,
-            "targetTemp": 260
+            "targetTemp": 270
         },
         {
-            "sectionTime": 90,
+            "sectionTime": 70,
             "fanSpeed": 9,
-            "targetTemp": 340
+            "targetTemp": 325
         },
         {
             "sectionTime": 60,
@@ -32,33 +45,20 @@
             "targetTemp": 440
         },
         {
-            "sectionTime": 60,
+            "sectionTime": 120,
             "fanSpeed": 8,
-            "targetTemp": 450
+            "targetTemp": 460
         },
         {
-            "sectionTime": 30,
+            "sectionTime": 75,
             "fanSpeed": 7,
-            "targetTemp": 470
+            "targetTemp": 480
         },
         {
             "cooling": true,
-            "sectionTime": 210,
+            "sectionTime": 180,
             "fanSpeed": 9
         }
     ],
-    "roastDescription": {
-        "roastType": "Light",
-        "description": ""
-    },
-    "roastName": "Kibumbu Kayokwe - Light",
-    "creator": "Alvin",
-    "bean": {
-        "region": "Burundi",
-        "source": {
-            "reseller": "",
-            "link": ""
-        },
-        "country": "Africa"
-    }
+    "totalTime": 825
 }
