@@ -1,4 +1,50 @@
 {
+    "roastDescription": {
+        "roastType": "Light",
+        "description": ""
+    },
+    "steps": [
+        {
+            "sectionTime": 30,
+            "targetTemp": 250,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 30,
+            "targetTemp": 325,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 30,
+            "targetTemp": 440,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 60,
+            "targetTemp": 550,
+            "fanSpeed": 9
+        },
+        {
+            "sectionTime": 60,
+            "targetTemp": 550,
+            "fanSpeed": 7
+        },
+        {
+            "sectionTime": 30,
+            "targetTemp": 550,
+            "fanSpeed": 6
+        },
+        {
+            "sectionTime": 45,
+            "targetTemp": 425,
+            "fanSpeed": 6
+        },
+        {
+            "sectionTime": 300,
+            "fanSpeed": 9,
+            "cooling": true
+        }
+    ],
     "bean": {
         "region": "Rukira AB",
         "country": "Africa",
@@ -7,48 +53,7 @@
             "reseller": ""
         }
     },
+    "roastName": "Rukira AB - Light",
     "creator": "Alvin",
-    "steps": [
-        {
-            "targetTemp": 300,
-            "sectionTime": 30,
-            "fanSpeed": 9
-        },
-        {
-            "targetTemp": 440,
-            "sectionTime": 30,
-            "fanSpeed": 9
-        },
-        {
-            "targetTemp": 550,
-            "sectionTime": 60,
-            "fanSpeed": 9
-        },
-        {
-            "targetTemp": 530,
-            "sectionTime": 60,
-            "fanSpeed": 7
-        },
-        {
-            "targetTemp": 510,
-            "sectionTime": 60,
-            "fanSpeed": 7
-        },
-        {
-            "targetTemp": 490,
-            "sectionTime": 180,
-            "fanSpeed": 6
-        },
-        {
-            "cooling": true,
-            "sectionTime": 300,
-            "fanSpeed": 9
-        }
-    ],
-    "totalTime": 720,
-    "roastDescription": {
-        "roastType": "Light",
-        "description": ""
-    },
-    "roastName": "Rukira AB - Light"
+    "totalTime": 570
 }

@@ -1,0 +1,24 @@
+{
+    "roastName": "cy",
+    "roastDescription": {
+        "roastType": "",
+        "description": ""
+    },
+    "steps": [
+        {
+            "sectionTime": 180,
+            "cooling": true,
+            "fanSpeed": 5
+        }
+    ],
+    "totalTime": 180,
+    "bean": {
+        "country": "",
+        "source": {
+            "reseller": "",
+            "link": ""
+        },
+        "region": ""
+    },
+    "creator": ""
+}
